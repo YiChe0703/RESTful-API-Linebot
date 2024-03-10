@@ -1,16 +1,16 @@
 "# RESTful API Linebot" 
 
 •**commit #1 initial a project skeleton**  
-  •This is an Line-message-api with flask , please install required python packages Documentation    
-  •init flask app with python  
-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/56edd7d7-fc22-41b1-9cd8-e0f29b86e3ae)  
+  -•This is an Line-message-api with flask , please install required python packages Documentation    
+  -•init flask app with python  
+-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/56edd7d7-fc22-41b1-9cd8-e0f29b86e3ae)  
   
   
 • **commit #2 setup necessary configuration of LINE and MongoDB**  
-  • create new channek for message api  
-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/5d20d5af-5f02-4033-b4a4-220f6e8102b9)  
-  • create new collection in mongodb   
-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/c92f07f6-4e85-46ad-a993-296bb58bcb0e)  
+  -• create new channek for message api  
+-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/5d20d5af-5f02-4033-b4a4-220f6e8102b9)  
+ - • create new collection in mongodb   
+-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/c92f07f6-4e85-46ad-a993-296bb58bcb0e)  
 
 
 • **commit #3 connect and access MongoDB**   
