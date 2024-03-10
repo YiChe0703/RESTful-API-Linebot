@@ -1,23 +1,23 @@
 "# RESTful API Linebot" 
 
-•**commit #1 initial a project skeleton**
-  •This is an Line-message-api with flask , please install required python packages Documentation  
-  •init flask app with python
-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/56edd7d7-fc22-41b1-9cd8-e0f29b86e3ae)
+•**commit #1 initial a project skeleton**  
+  •This is an Line-message-api with flask , please install required python packages Documentation    
+  •init flask app with python  
+![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/56edd7d7-fc22-41b1-9cd8-e0f29b86e3ae)  
+  
+  
+• **commit #2 setup necessary configuration of LINE and MongoDB**  
+  • create new channek for message api  
+![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/5d20d5af-5f02-4033-b4a4-220f6e8102b9)  
+  • create new collection in mongodb   
+![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/c92f07f6-4e85-46ad-a993-296bb58bcb0e)  
 
 
-• **commit #2 setup necessary configuration of LINE and MongoDB**
-  • create new channek for message api
-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/5d20d5af-5f02-4033-b4a4-220f6e8102b9)
-  • create new collection in mongodb 
-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/c92f07f6-4e85-46ad-a993-296bb58bcb0e)
-
-
-• **commit #3 connect and access MongoDB** 
-  • Create objects for MongoDB/collection connection 
-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/a50a66fc-011c-4837-aab0-eab35745ca36)
-  •Create model/DTO objects to save/query user messages with MongoDB  
-![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/6ec166cc-3278-4753-b5e1-c16a78a6ffd4)
+• **commit #3 connect and access MongoDB**   
+  • Create objects for MongoDB/collection connection   
+![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/a50a66fc-011c-4837-aab0-eab35745ca36)  
+  •Create model/DTO objects to save/query user messages with MongoDB    
+![image](https://github.com/YiChe0703/RESTful-API-Linebot/assets/80759343/6ec166cc-3278-4753-b5e1-c16a78a6ffd4)  
 
 
 • **commit #4 receive and store the message**
